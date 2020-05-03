@@ -31,6 +31,7 @@ Tooling
 [![Codecov](https://img.shields.io/badge/test_coverage-CodeCov-f01f7a.svg?logo=Codecov&logoColor=white&style=flat-square 'Codecov')](https://codecov.io/gh/ampproject/amphtml/)
 [![LGTM](https://img.shields.io/lgtm/alerts/github/ampproject/amphtml.svg?logo=lgtm&style=flat-square 'LGTM')](https://lgtm.com/projects/g/ampproject/amphtml/)
 [![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg?logo=dependabot&style=flat-square 'Renovate')](https://renovateapp.com/)
+[![CLA assistant](https://cla-assistant.io/readme/badge/amp-cla-test/amphtml)](https://cla-assistant.io/amp-cla-test/amphtml)
 
 </details>
 
