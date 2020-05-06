@@ -34,9 +34,7 @@ Tooling
 
 </details>
 
-[AMP](https://amp.dev) is a web component framework for easily creating user-first websites, stories, ads, emails and more.
-
-AMP is an open source project, and we'd love your help making it better!
+[AMP](https://amp.dev) is a web component framework for easily creating user-first websites, stories, ads, emails and more. AMP is an open source project, and we'd love your help making it better!
 
 ## Want to know more about AMP?
 
