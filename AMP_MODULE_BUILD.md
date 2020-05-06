@@ -1,7 +1,7 @@
 # AMP Module Build
 
 ## Explainer
-
+a
 ES Modules is an official, standardized module system for JavaScript. However, on the AMP Project and for many in the wider web community, they are also an inflection point for supported JavaScript features from user-agents that is declarative and well known. When a browser supports ES Modules we can infer it also supports other modern features that were implemented before ES Modules were introduced. These include classes, promises, async/await, css variables, custom elements, window.fetch, let/const, arrow functions, and Shadow DOM. Like others, we're using this signal to remove polyfills and leverage modern JavaScript syntax more closely mirroring our authored source. Even better, this output is significantly terser than our previous output (which was compiled to ~ECMAScript 5) and helps improve performance for all AMP Documents.
 
 The [module/nomodule pattern](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) is a way to load the modern "module" build of the AMP runtime in a way were there would still be a fallback "nomodule" build if the browser does not support ES Modules.
